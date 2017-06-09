@@ -15,5 +15,6 @@ public class Ta {
 		new Ta();
 		new Ta();
 		new Ta();
+		System.out.println("露露是小可爱，淘气是大可爱");
 	}
 }
