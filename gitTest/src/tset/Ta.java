@@ -13,5 +13,7 @@ public class Ta {
 		new Ta();
 		new Ta();
 		new Ta();
+		new Ta();
+		new Ta();
 	}
 }
