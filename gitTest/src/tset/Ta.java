@@ -10,5 +10,8 @@ public class Ta {
 	public static void show(){}
 	public static void main(String[] args) {
 		Ta aa = new Ta();
+		new Ta();
+		new Ta();
+		new Ta();
 	}
 }
