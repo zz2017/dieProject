@@ -9,6 +9,6 @@ public class Ta {
 	}
 	public static void show(){}
 	public static void main(String[] args) {
-		
+		new Ta();
 	}
 }
